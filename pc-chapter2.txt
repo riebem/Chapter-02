@@ -1,0 +1,52 @@
+Podcast Questions
+
+Listen to the Podcast at https://twit.tv/shows/floss-weekly/episodes/500
+
+    7:21 Who is Vicky Brasseur and what does she do?
+	Vicky is an author of Forge your future with opensource.  She used to run the software engineering department for BP.  Now freelances for companies - sustaining, use, contribute to, release and comply with free and opensource software projects.
+
+    8:45 What has changed the most in regards to the term OpenSource in the last 25+ years?
+	has become more mainstream.  don't have to explain what free and oss is now.  It has become the default when starting something.  It has become the way we do business.
+
+    10:00 What is assumed to now be the default development pattern for new software?
+	Start with open source and then build on it.
+
+    13:00 According to Randall, when a company publishes its code as OpenSource, what do they gain?
+	They gain resources of anyone who may be interested in that software.  Principle of leveraging.
+
+    15:57 What do companies struggle with when they decide to opensource their codebase and core-products and how do they solve it?
+	How do we make $$?  They need the business model before they release it.  Know how to run a business - user studies, market research, figure those things out.
+
+    19:00 What are some of the OpenSource companies?
+	Red Hat, Hortonworks, MongoDB
+
+    19:35 What are the majority of OpenSource companies strategies to make money?
+	Let's get acquired
+
+    22:40 What do companies need to figure out about Free and OpenSource?
+	Figure out why free and opensource is important for this company.  Also, what is free and opensource: history, licensing, foundation of knowledge
+
+    24:25 What is the term "Yak-Shaving" mean?
+	all of the crap you need to do before you can get back to the one thing you're to accomplish
+
+    27:25 Who is Vicky's new book targeting?
+	Roles of developers, free and opensource development designers, translaters, security folks, documentarians and all of the folks who are necessary to make a project successful.
+
+    28:03 What is the book about?
+	How to contribute to free and opensource software - the missing manual
+
+    33:25 What is the mistaken impression about contributing to OpenSource Software?
+	I don't know how to code, so I can't help
+
+    37:40 What do you need to read before contributing to an OpenSource project?
+	Read the contributing guide
+
+    43:00 What does Vicky believe is important for a project to have and to enforce for a community?
+	It's important to have a Code of Conduct and to welcome people.  The project must also know what they will do with problems and problem people.
+
+    48:01 What is the myth about users of propriatery operating systems (Windows and MacOS)?
+	that you don't believe in opensource
+
+    49:00 Vicky used Linux for 10 years, what drove her away from it?
+	Spent too much time beating it into submission.  Needed to streamline her workflow.
+
